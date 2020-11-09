@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T06:57:25.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="3i7f9DygMOxDlEziS6g3" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T07:15:36.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xmM1zstRhueYUg2MD3aE" version="13.9.2" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1673" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" background="#ffffff" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
         <mxCell id="HU2ifAnMFfXZLLWlW_Jy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HU2ifAnMFfXZLLWlW_Jy-14" target="HU2ifAnMFfXZLLWlW_Jy-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HU2ifAnMFfXZLLWlW_Jy-14" value="Post Data &lt;br&gt;(Add to Cart)&lt;br&gt;API: /post-cart&lt;br&gt;Return: Cart ID&lt;br&gt;Status: Draft" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HU2ifAnMFfXZLLWlW_Jy-14" value="Post Cart Data &lt;br&gt;(Add to Cart)&lt;br&gt;(POST) API: /cart&lt;br&gt;Return: Cart ID&lt;br&gt;Status: Draft" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="140" width="120" height="80.06" as="geometry" />
         </mxCell>
         <mxCell id="HU2ifAnMFfXZLLWlW_Jy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HU2ifAnMFfXZLLWlW_Jy-18">
@@ -314,7 +314,7 @@
             <mxPoint x="1177.4999999999995" y="199.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HU2ifAnMFfXZLLWlW_Jy-27" value="Item Posted&lt;br&gt;Post Data&lt;br&gt;API: /post&lt;br&gt;Param: Cart ID&lt;br&gt;Status: Published" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HU2ifAnMFfXZLLWlW_Jy-27" value="Post Item Data&lt;br&gt;(POST) API: /item&lt;br&gt;Param: Cart ID&lt;br&gt;Status: Published" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="144.97" width="120" height="69.94" as="geometry" />
         </mxCell>
         <mxCell id="HU2ifAnMFfXZLLWlW_Jy-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
