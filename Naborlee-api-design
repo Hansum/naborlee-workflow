@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T08:54:56.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="V61WM75PrrK4k6JzDngp" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T09:00:05.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ZhSg8wntUkLbYP0iyzWr" version="13.9.2" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="8370" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" background="#ffffff" math="0" shadow="0">
       <root>
@@ -808,6 +808,9 @@
         <mxCell id="qk9_0hVXZH2V8GP4aP73-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qk9_0hVXZH2V8GP4aP73-14" target="qk9_0hVXZH2V8GP4aP73-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qk9_0hVXZH2V8GP4aP73-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qk9_0hVXZH2V8GP4aP73-14" target="qk9_0hVXZH2V8GP4aP73-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qk9_0hVXZH2V8GP4aP73-14" value="Success Message: It;s Official" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="-4170" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -866,6 +869,9 @@
         </mxCell>
         <mxCell id="qk9_0hVXZH2V8GP4aP73-39" value="Item Status: Assigned" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-4180" y="515" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qk9_0hVXZH2V8GP4aP73-40" value="Update Item: Date Availability Field&amp;nbsp;&lt;br&gt;(Disable accepted date)" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-4185" y="350" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
