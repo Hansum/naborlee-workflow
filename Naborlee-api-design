@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T14:30:33.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="rLFJrM6jaSxTBkyISJR-" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T14:31:22.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ApDXQYLCzToVgKVlLGNq" version="13.9.2" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="10740" dy="4483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="7673" dy="2941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1536,8 +1536,8 @@
         <mxCell id="IZ6bYBlVc8RJKL0USDTt-274" value="Start" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="-1975.06" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IZ6bYBlVc8RJKL0USDTt-280" value="&lt;h1&gt;Rent Request /Book an Item&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-3980" y="55" width="360" height="20" as="geometry" />
+        <mxCell id="IZ6bYBlVc8RJKL0USDTt-280" value="&lt;h1&gt;Rent Request /Book an Item (As a Renter)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3980" y="55" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IZ6bYBlVc8RJKL0USDTt-283" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZ6bYBlVc8RJKL0USDTt-281" target="IZ6bYBlVc8RJKL0USDTt-282">
           <mxGeometry relative="1" as="geometry" />
