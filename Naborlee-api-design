@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T08:33:29.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="WrZlzbxo5mi6mjZ8IYfZ" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T08:43:41.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="CRziTuWjoTU2-XQKJXaS" version="13.9.2" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="8370" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" background="#ffffff" math="0" shadow="0">
       <root>
@@ -657,13 +657,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7T4HCEWzvRppOcxc0E7t-10" value="Select dates to Rent the item" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-2950" y="155.03000000000003" width="230" height="89.94" as="geometry" />
+          <mxGeometry x="-2950" y="155.03" width="200" height="89.94" as="geometry" />
         </mxCell>
         <mxCell id="mFm_x5Ln60SY8sLVY5LN-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7T4HCEWzvRppOcxc0E7t-12" target="mFm_x5Ln60SY8sLVY5LN-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7T4HCEWzvRppOcxc0E7t-12" value="Submit BookingRequest/Rent Request" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2700" y="170.00000000000006" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2710" y="160.06" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7T4HCEWzvRppOcxc0E7t-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7T4HCEWzvRppOcxc0E7t-14" target="7T4HCEWzvRppOcxc0E7t-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
